@@ -1,0 +1,11 @@
+timestamp,user,account_type,is_privileged,location,ip_address,successful,mfa_used,rule_outside_business_hours,rule_new_location,rule_dormant_admin_use,risk_score_event,any_rule_triggered
+2024-01-08 22:05:00,admin_alpha,admin,True,London-UK,44.10.10.10,True,False,True,False,False,20,True
+2024-01-10 03:45:00,admin_beta,admin,True,Singapore-SG,17.10.10.10,True,False,True,True,False,45,True
+2024-01-12 02:30:00,admin_beta,admin,True,Berlin-DE,55.10.10.10,True,False,True,True,False,45,True
+2024-01-13 22:10:00,service_acct01,service,True,NewYork-US,99.10.10.77,True,False,True,False,False,20,True
+2024-01-15 03:15:00,admin_beta,admin,True,Singapore-SG,17.10.10.10,True,False,True,False,False,20,True
+2024-01-15 18:30:00,admin_alpha,admin,True,London-UK,44.10.10.10,True,True,True,False,False,20,True
+2024-01-16 07:55:00,admin_beta,admin,True,NewYork-US,99.10.10.10,True,True,True,False,False,20,True
+2024-01-20 09:00:00,admin_gamma,admin,True,Chicago-US,66.10.10.10,True,True,False,False,True,30,True
+2024-01-20 23:30:00,admin_gamma,admin,True,Chicago-US,66.10.10.10,True,False,True,False,False,20,True
+2024-01-21 01:15:00,admin_alpha,admin,True,Paris-FR,33.10.10.10,True,False,True,True,False,45,True

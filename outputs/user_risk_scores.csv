@@ -1,0 +1,6 @@
+user,total_events,privileged_events,outside_hours_hits,new_location_hits,dormant_admin_hits,total_risk_score,risk_tier
+admin_beta,7,7,4,2,0,130,High
+admin_alpha,6,6,3,1,0,85,High
+admin_gamma,3,3,1,0,1,50,Medium
+service_acct01,1,1,1,0,0,20,Low
+analyst_delta,3,0,0,0,0,0,Low
